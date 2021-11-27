@@ -50,7 +50,7 @@ public class ReservationFactory {
 	}
 
 	private boolean canReserve(Client client) {
-		return true;//TODO explore domain rules (ex: cleint's debts, stataus etc) 
+		return true;//TODO explore domain rules (ex: client's debts, statuses etc) 
 	}
 
 }
