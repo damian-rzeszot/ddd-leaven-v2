@@ -54,7 +54,7 @@ import pl.com.bottega.ecommerce.sharedkernel.Money;
  */
 
 @InvariantsList({
-	"closed: closed reservation cano not be modified",
+	"closed: closed reservation can not be modified",
 	"duplicates: can not add already added product, increase quantity instead",
 })
 
